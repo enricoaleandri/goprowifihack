@@ -15,13 +15,12 @@ This repository won't be updated regularly, and users are encouraged to switch t
 -   [GoPro HERO5 (Black/Session)](https://github.com/KonradIT/goprowifihack/blob/master/HERO5/README.md)
 -   [GoPro HERO6 Black](https://github.com/KonradIT/goprowifihack/blob/master/HERO6/README.md)
 -   [GoPro HERO7 (Black/Silver/White)](https://github.com/KonradIT/goprowifihack/blob/master/HERO7/README.md)
+-   [GoPro HERO8 Black](https://github.com/KonradIT/goprowifihack/blob/master/HERO8/README.md)
 -   [GoPro Fusion](https://github.com/KonradIT/goprowifihack/blob/master/Fusion1/README.md)
 -   [GoPro MAX](https://github.com/KonradIT/goprowifihack/blob/master/MAX/README.md)
 -   [GoPro HERO9](https://github.com/KonradIT/goprowifihack/blob/master/HERO9/README.md)
 -   [GoPro HERO10](https://github.com/KonradIT/goprowifihack/blob/master/HERO10/README.md)
 -   [GoPro HERO11](https://github.com/KonradIT/goprowifihack/blob/master/HERO11/README.md)
-
-_A note on HERO8:_ For GoPro Connect (Webcam Mode), use Hero9 commands; For other commands, use Hero7 commands.
 
 ---
 
